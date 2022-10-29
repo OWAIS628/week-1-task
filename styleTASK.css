@@ -29,34 +29,14 @@ body{
 .sidebar ul{
     padding: 5px;
 }
-
-
-
 .sidebar ul li:hover{
     background-color: gray;
     border-left: 5px solid orangered;
 
 }
-
-
-input:focus{
-    outline: none;
-}
-
-
-.logo{
-    padding-left: 2px;
-    margin: 0px;
-   
-
-}
 .menu{
     padding:10px;
-   
-   
-
 }
-
 .module{
     padding-top: 10px;
 }
@@ -82,31 +62,6 @@ input:focus{
     border-radius: 10px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#first{
-    background:teal;
-}
-#first li{
-    list-style-type: none;
-}
-#first li a{
-    display:;
-    text-decoration: none;
-    color: blanchedalmond;
-}
 .row2{
     background: lightblue;
     color: blue;
@@ -121,15 +76,8 @@ input:focus{
     outline: 2px;
 }
 
-
-
-
-
-
-
-
-@media (max-width: 768px;){
-
+input:focus{
+    outline: none;
 }
-    
+
 
